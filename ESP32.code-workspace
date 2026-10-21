@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../ESP32"
+		},
+		{
+			"name": "RGB WIFI",
+			"path": "../../PlatformIO/Projects/RGB WIFI"
+		}
+	],
+	"settings": {}
+}
